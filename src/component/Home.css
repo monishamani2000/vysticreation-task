@@ -1,0 +1,136 @@
+.bgimg{
+    background-image: url("homebg.jpg");
+    height: 146vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.variant{
+    margin-top: 8%;
+    margin-left: 20%;
+}
+.bank{
+    margin-top: 10%;
+    margin-left: 20%;}
+.para{
+    margin-top: 20%;
+}
+.digbut{
+    border-radius: 20px;
+    background-color: rgb(58, 221, 58);
+    border:rgb(58, 221, 58) ;
+    margin-left: 40%;
+    font-size: larger;
+}
+.personalbut{
+    border-radius: 20px;
+    background-color: rgb(58, 221, 58);
+    border:rgb(58, 221, 58) ;
+}
+
+.trybut{
+    margin-left: 40%;
+    background-color: rgb(20, 228, 20);
+    border: rgb(20, 228, 20);
+    border-radius: 20px;
+}
+.sales{
+    border-radius: 20px;
+}
+.head{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bgconnect{
+    background-color: black;
+    border-radius: 20px;
+}
+.head2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.try{
+    margin-left: 38%;
+    background-color: rgb(20, 228, 20);
+    border: rgb(20, 228, 20);
+    border-radius: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger
+}
+.last{
+    margin-left: 54%;
+    margin-top: 14%;
+}
+.lastbut{
+    background-color: rgb(20, 228, 20);
+    border: rgb(20, 228, 20);
+    border-radius: 20px;   
+}
+.rulebg{
+    background-color: black;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+.box{
+    border-radius: 10px;
+}
+.btn{
+    border-radius: 30px;
+    background-color:rgb(22, 223, 22);
+    border:2px solid rgb(22, 223, 22);
+}
+.btnsales{
+    border-radius: 30px;
+    border: 1px solid white ;
+}
+.bord{
+    border-radius: 30px;
+    border:2px solid;
+}
+.pera{
+    font-size: 13px;
+}
+.bg-grey{
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+
+@media screen and (max-width:675px) {
+    .Frame{
+        height: 100%;
+        width: 100%;
+        /* float: left; */
+    }
+    .Group{
+        height: 100%;
+        width: 100%;
+        float: right;
+    }
+    .pad{
+        padding: 50px;
+    }
+    .black{
+        height: 200px;
+        width: 200px;
+    }
+    
+}
+.bgcolor{
+    background-color: rgb(75, 73, 73);
+    border-radius: 20px;
+}
+.bgcolT{
+    background-color: rgb(111, 235, 111);
+    border-radius: 20px;
+}
+.bgcols{
+    background-color: rgb(75, 73, 73);
+    border-radius: 20px;
+}
+.mar{
+   margin-top: 110%;
+}
+.discol{
+    color: rgb(115, 250, 115);
+}
+.bgset{
+    background-color: black;
+}
